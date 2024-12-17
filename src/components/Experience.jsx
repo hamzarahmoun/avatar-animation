@@ -1,11 +1,16 @@
+import { OrbitControls } from "@react-three/drei"
 
 const Experience = () =>{
     return (
-        <mesh>
+        <>
+        <OrbitControls/>
+         <mesh>
             
-            {/* <boxBufferGeometry/> */}
-            {/* <meshNormalMaterial/> */}
+            <boxGeometry/>
+            <meshNormalMaterial/>
         </mesh>
+        </>
+       
     )
 }
 
