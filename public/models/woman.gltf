@@ -9889,148 +9889,149 @@
             ]
         }
     ],
-    "materials" : [
-        {
-            "doubleSided" : true,
-            "name" : "Glasses",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.07137999683618546,
-                    0.04566386342048645,
-                    0.11280229687690735,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Eyes",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.04445718228816986,
-                    0.08413270115852356,
-                    1,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Hair",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.38005149364471436,
-                    0.0632329136133194,
-                    0.25560441613197327,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Skin",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.7677615880966187,
-                    0.5951336026191711,
-                    0.5388870239257812,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Mouth",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.39753153920173645,
-                    0.05124048888683319,
-                    0.04470871388912201,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Shirt",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.007328602019697428,
-                    0.2428627610206604,
-                    0.013219308108091354,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Pants",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.003188978647813201,
-                    0.002219696529209614,
-                    0.007627604529261589,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Shoes",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.0072605242021381855,
-                    0.014945067465305328,
-                    0.11280229687690735,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Sole",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.4388974905014038,
-                    0.3969449996948242,
-                    1,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Laces",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.8000000715255737,
-                    0.07536567747592926,
-                    0.3422871530056,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
+   "materials": [
+    {
+        "doubleSided": true,
+        "name": "Glasses",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.1,
+                0.1,
+                0.8,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
         }
-    ],
+    },
+    {
+        "doubleSided": true,
+        "name": "Eyes",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.2,
+                0.5,
+                0.9,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Hair",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.5,
+                0.2,
+                0.2,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Skin",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.9,
+                0.7,
+                0.6,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Mouth",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.8,
+                0.3,
+                0.3,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Shirt",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.1,
+                0.6,
+                0.2,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Pants",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.1,
+                0.1,
+                0.3,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Shoes",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.2,
+                0.2,
+                0.2,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Sole",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.6,
+                0.5,
+                0.4,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    },
+    {
+        "doubleSided": true,
+        "name": "Laces",
+        "pbrMetallicRoughness": {
+            "baseColorFactor": [
+                0.9,
+                0.9,
+                0.9,
+                1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.5
+        }
+    }
+],
+
     "meshes" : [
         {
             "name" : "Mesh.019",
